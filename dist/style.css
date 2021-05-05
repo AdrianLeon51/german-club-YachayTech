@@ -1,0 +1,29 @@
+html{
+  background: #1B1B1B;
+}
+
+h1 {
+  font-family: system-ui;
+  background: #f06d04;
+  color: white;
+  text-align: center;
+}
+
+h4 {
+  font-family: system-ui;
+  background: #DAA520;
+  color: black;
+  text-align: center;
+}
+
+p {
+  text-align: center;
+  background: #414141;
+  color: white;
+}
+
+ul {
+  font-family: ;
+  background: #414141;
+  color: white;
+}
